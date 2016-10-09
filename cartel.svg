@@ -2423,15 +2423,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="274.42047"
-     inkscape:cy="506.82304"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="495.08074"
+     inkscape:cy="371.74153"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      width="500px"
      height="300px"
-     inkscape:window-width="1920"
-     inkscape:window-height="1016"
+     inkscape:window-width="1366"
+     inkscape:window-height="704"
      inkscape:window-x="0"
      inkscape:window-y="27"
      showgrid="false"
@@ -2446,7 +2446,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2487,42 +2487,37 @@
     <text
        sodipodi:linespacing="99.000001%"
        id="text5889"
-       y="907.4104"
-       x="746.84564"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:99.00000095%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33890879;marker:none;visibility:visible;font-family:PT Sans;-inkscape-font-specification:PT Sans;"
+       y="929.4104"
+       x="747.84564"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:99.00000095%;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33890879;marker:none"
        xml:space="preserve"><tspan
-         id="tspan5938"
-         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:99.00000095%;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;fill-opacity:1;font-family:PT Sans;-inkscape-font-specification:PT Sans;"
-         y="907.4104"
-         x="746.84564"
-         sodipodi:role="line">Calle 14 #2184-A</tspan><tspan
          id="tspan4433"
-         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:99.00000095%;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;fill-opacity:1;font-family:PT Sans;-inkscape-font-specification:PT Sans;"
-         y="925.23041"
-         x="746.84564"
-         sodipodi:role="line">entre Calle 11 y Calz. Lázaro Cárdenas</tspan><tspan
-         id="tspan4436"
-         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:99.00000095%;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;fill-opacity:1;font-family:PT Sans;-inkscape-font-specification:PT Sans;"
-         y="943.05042"
-         x="746.84564"
-         sodipodi:role="line">Col. Ferrocarril</tspan><tspan
-         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:99.00000095%;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;fill-opacity:1;font-family:PT Sans;-inkscape-font-specification:PT Sans;"
-         y="960.87042"
-         x="751.66205"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:99.00000095%;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;fill-opacity:1"
+         y="929.4104"
+         x="747.84564"
+         sodipodi:role="line">Calle Zaragoza #24</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:99.00000095%;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;fill-opacity:1"
+         y="947.23041"
+         x="747.84564"
          sodipodi:role="line"
-         id="tspan3982">Rutas de camiones: </tspan><tspan
+         id="tspan5287">Ixtlahuacan de los membrillos</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:99.00000095%;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;fill-opacity:1"
+         y="965.05042"
+         x="747.84564"
+         sodipodi:role="line"
+         id="tspan5289">Jalisco, Mexico.</tspan><tspan
          id="tspan4471"
-         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:99.00000095%;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;fill-opacity:1;font-family:PT Sans;-inkscape-font-specification:PT Sans;"
-         y="978.69043"
-         x="746.84564"
-         sodipodi:role="line">Macrobus, R-59, R-59A y R-646</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:99.00000095%;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;fill-opacity:1"
+         y="982.87042"
+         x="747.84564"
+         sodipodi:role="line" /></text>
     <g
        style="font-size:83.5715332px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33890879;marker:none;visibility:visible;font-family:Sans"
        id="g5358"
        transform="translate(144.51767,691.23965)">
       <text
          xml:space="preserve"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33890879;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:RNS Camelia;-inkscape-font-specification:RNS Camelia Light"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:40px;line-height:125%;font-family:'RNS Camelia';-inkscape-font-specification:'RNS Camelia Light';letter-spacing:0px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33890879;marker:none;enable-background:accumulate"
          x="-2.9366245"
          y="288.74075"
          id="text4446-3"
@@ -2531,52 +2526,21 @@
            id="tspan4448-1"
            x="-2.9366245"
            y="288.74075"
-           style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:PT Sans;-inkscape-font-specification:PT Sans Bold">www.cabal.mx/Eventos.php</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans Bold';fill:#ffffff;fill-opacity:1">www.glix.org.mx</tspan></text>
     </g>
     <text
        sodipodi:linespacing="99.000001%"
        id="text5889-6"
-       y="882.60846"
-       x="742.34314"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:99.00000095%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33890879;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:PT Sans;-inkscape-font-specification:PT Sans Bold;"
-       xml:space="preserve"><tspan
+       y="978.22937"
+       x="692.60345"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:102.49777222px;line-height:99.00000095%;font-family:'PT Sans';-inkscape-font-specification:'PT Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33890879;marker:none;enable-background:accumulate"
+       xml:space="preserve"
+       transform="scale(1.0795483,0.92631335)"><tspan
          id="tspan5898-2"
-         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:99.00000095%;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;fill-opacity:1;font-family:PT Sans;-inkscape-font-specification:PT Sans Bold;"
-         y="882.60846"
-         x="742.34314"
-         sodipodi:role="line">LinuxCabal</tspan></text>
-    <path
-       style="fill:#f54600;fill-opacity:1;stroke:none"
-       d="m 604.26949,889.59075 c -6.10715,-6.30991 -14.36792,-16.9612 -9.23207,-25.60477 2.76675,-5.43827 12.7239,-8.55109 18.83287,0.92591 4.51355,10.84459 -7.36197,22.38672 -9.6008,24.67886 z"
-       id="path4646"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc" />
-    <path
-       sodipodi:type="arc"
-       style="opacity:0.98999999;color:#000000;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:#f54600;stroke-width:1.20000005;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="path4648-3"
-       sodipodi:cx="1141.2286"
-       sodipodi:cy="281.19699"
-       sodipodi:rx="35.9674"
-       sodipodi:ry="35.9674"
-       d="m 1140.1303,317.14762 a 35.9674,35.9674 0 1 1 1.3229,0.0161"
-       transform="matrix(0.15904105,0,0,0.15482398,422.65397,828.05622)"
-       sodipodi:start="1.6013384"
-       sodipodi:end="7.8477374"
-       sodipodi:open="true" />
-    <path
-       sodipodi:type="arc"
-       style="opacity:0.98999999;color:#000000;fill:#f54600;fill-opacity:1;fill-rule:nonzero;stroke:#f54600;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="use4678"
-       sodipodi:cx="1141.2286"
-       sodipodi:cy="281.19699"
-       sodipodi:rx="35.9674"
-       sodipodi:ry="35.9674"
-       d="m 1140.1303,317.14762 a 35.9674,35.9674 0 1 1 1.3229,0.0161"
-       transform="matrix(0.07740182,0,0,-0.07534947,515.82299,894.55774)"
-       sodipodi:start="1.6013384"
-       sodipodi:end="7.8477374"
-       sodipodi:open="true" />
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:61.49866104px;line-height:99.00000095%;font-family:'PT Sans';-inkscape-font-specification:'PT Sans Bold';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;fill-opacity:1"
+         y="978.22937"
+         x="692.60345"
+         sodipodi:role="line">GLIx</tspan></text>
     <image
        style="display:inline"
        y="865.27905"
@@ -2751,7 +2715,7 @@
          x="384.21143"
          y="-514.19067"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:24px;font-family:'PT Sans Narrow';-inkscape-font-specification:'PT Sans Narrow Condensed';text-align:center;text-anchor:middle;fill:#0d1f39;fill-opacity:1"
-         id="tspan8617">¡Asiste a nuestras pláticas y talleres del mes de abril<tspan
+         id="tspan8617">¡Asiste a nuestro grupo de linuxeros cada lunes<tspan
    style="font-weight:bold"
    id="tspan9040">!</tspan></tspan></text>
     <flowRoot
@@ -2777,32 +2741,38 @@
          y="-552.07098">¿Te interesa participar en la comunidad de software libre?</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:18px;line-height:125%;font-family:'PT Sans Narrow';-inkscape-font-specification:'PT Sans Narrow Bold Condensed';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:18px;line-height:125%;font-family:'PT Sans Narrow';-inkscape-font-specification:'PT Sans Narrow Condensed';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none"
        x="386.29599"
        y="84.381538"
        id="text9053"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan9055"
-         x="388.85068"
+         x="386.29599"
          y="84.381538"
-         style="font-weight:normal;font-size:24px;-inkscape-font-specification:'PT Sans Narrow Condensed';text-align:center;text-anchor:middle;fill:#333333">Además todos los sábados hay <tspan
-   style="font-style:normal;font-weight:bold;-inkscape-font-specification:'PT Sans Narrow Bold Condensed';fill:#333333"
-   id="tspan9132">Festival de Instalación</tspan> así que puedes traer tu máquina </tspan><tspan
+         id="tspan9057"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:24px;font-family:'PT Sans Narrow';-inkscape-font-specification:'PT Sans Narrow Condensed';text-align:center;text-anchor:middle;fill:#333333"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-family:'PT Sans Narrow';-inkscape-font-specification:'PT Sans Narrow Bold Condensed'"
+   id="tspan5152">Objetivo:</tspan> Aprender y colaborar al <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-family:'PT Sans Narrow';-inkscape-font-specification:'PT Sans Narrow Bold Condensed'"
+   id="tspan5144">FOSS</tspan>, aprender <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-family:'PT Sans Narrow';-inkscape-font-specification:'PT Sans Narrow Bold Condensed'"
+   id="tspan5146">programacion</tspan>, y uso de <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-family:'PT Sans Narrow';-inkscape-font-specification:'PT Sans Narrow Bold Condensed'"
+   id="tspan5148">GNU &amp; Linux</tspan></tspan><tspan
          sodipodi:role="line"
          x="386.29599"
          y="114.38154"
-         id="tspan9057"
-         style="font-weight:normal;font-size:24px;-inkscape-font-specification:'PT Sans Narrow Condensed';text-align:center;text-anchor:middle;fill:#333333">y te ayudamos a instalar <tspan
-   style="font-weight:bold;-inkscape-font-specification:'PT Sans Narrow Bold Condensed';fill:#333333"
-   id="tspan9138">GNU/Linux</tspan></tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:24px;font-family:'PT Sans Narrow';-inkscape-font-specification:'PT Sans Narrow Condensed';text-align:center;text-anchor:middle;fill:#333333"
+         id="tspan5142">(Mas informacion en la pagina web de <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-family:'PT Sans Narrow';-inkscape-font-specification:'PT Sans Narrow Bold Condensed'"
+   id="tspan5150">GLIx</tspan>)</tspan></text>
     <path
        inkscape:connector-curvature="0"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.98999999;fill:#88aa00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.30000001;marker:none;enable-background:accumulate"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.98999999;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.30000001;marker:none;enable-background:accumulate"
        d="m 525.18878,-184.95495 c 0.44227,1.72178 0.65098,3.50538 0.58215,5.34127 -0.39522,10.54061 -9.58408,19.21541 -21.74342,21.40867 3.50527,4.93796 9.78281,8.32539 17.01342,8.68864 3.81315,2.67919 9.33031,4.77365 17.94488,5.80697 -3.01741,-2.16232 -6.60232,-3.98577 -7.24781,-7.61165 7.23712,-2.99669 12.12401,-9.33046 11.86137,-16.53314 -0.32231,-8.84054 -8.28284,-15.95945 -18.41059,-17.10076 z"
        id="path4954-9" />
     <path
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.98999999;fill:#445500;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.30000001;marker:none;enable-background:accumulate"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.98999999;fill:#68bf00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.30000001;marker:none;enable-background:accumulate"
        d="m 494.83932,-204.8239 c -14.703,0.24089 -26.74694,9.83479 -27.20109,21.94719 -0.34315,9.15149 6.02921,17.19365 15.48526,21.00118 -0.84337,4.60691 -5.51737,6.91634 -9.45998,9.66373 11.25586,-1.31293 18.46394,-3.97467 23.44621,-7.37878 14.25609,-0.69645 25.65388,-10.13753 26.09506,-21.90353 0.4688,-12.50311 -11.59445,-22.94779 -26.93917,-23.32979 -0.47953,-0.0113 -0.95198,-0.007 -1.42629,0 z"
        id="path4954-3"
        inkscape:connector-curvature="0" />
@@ -2863,6 +2833,39 @@
            y="-802.07275"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.82580566px;font-family:'PT Sans Narrow';-inkscape-font-specification:'PT Sans Narrow';text-align:center;text-anchor:middle;fill:#fffffd;fill-opacity:1;stroke:#ffffff;stroke-width:1.58037591;stroke-opacity:1"
            id="tspan4751">Libre!</tspan></text>
+    </g>
+    <g
+       id="g5273"
+       transform="matrix(1.4483328,0,0,1.429656,-251.99657,-55.214685)">
+      <path
+         style="fill:#f54600;fill-opacity:1"
+         d="m 572.45326,198.18154 c -2.57189,-4.37977 -4.78043,-8.12721 -4.90785,-8.32766 -0.12743,-0.20045 -0.32915,-0.54084 -0.44827,-0.75642 -2.3736,-4.2952 -1.62539,-9.56882 1.85172,-13.05147 1.87177,-1.87474 4.06901,-2.94593 6.80622,-3.3181 0.43969,-0.0598 0.69037,-0.073 1.39112,-0.073 0.92103,0 1.46423,0.053 2.33933,0.22837 3.09479,0.62014 5.8259,2.52584 7.48306,5.2215 1.86967,3.04135 2.11664,6.89703 0.64991,10.14625 -0.23232,0.51466 -0.42074,0.85959 -0.88116,1.61314 -0.19586,0.32055 -2.4302,4.1148 -4.96523,8.43167 -2.53504,4.31687 -4.61668,7.84886 -4.62591,7.84886 -0.009,0 -2.12104,-3.58344 -4.69294,-7.96321 z m 5.38557,-10.22982 c 0.76848,-0.13222 1.37955,-0.39891 1.98945,-0.86841 0.63626,-0.48978 1.13119,-1.1901 1.4019,-1.98366 0.33529,-0.98286 0.24983,-2.15322 -0.22722,-3.11214 -0.77694,-1.56171 -2.47889,-2.503 -4.23387,-2.34162 -1.00628,0.0925 -1.86194,0.47326 -2.59079,1.15276 -0.88302,0.82324 -1.35949,1.96819 -1.3127,3.15443 0.0325,0.82441 0.25888,1.51808 0.71092,2.1785 0.66846,0.97661 1.65021,1.60313 2.84898,1.81812 0.32477,0.0583 1.08015,0.0593 1.41333,0.001 z"
+         id="path5208"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 576.75786,191.12176 a 6.90625,6.90625 0 0 1 -6.69379,-7.05043 6.90625,6.90625 0 0 1 6.98858,-6.75834 6.90625,6.90625 0 0 1 6.82232,6.92613 6.90625,6.90625 0 0 1 -6.86309,6.88573"
+         sodipodi:open="true"
+         sodipodi:end="1.5645515"
+         sodipodi:start="1.6013378"
+         sodipodi:ry="6.90625"
+         sodipodi:rx="6.90625"
+         sodipodi:cy="184.21873"
+         sodipodi:cx="576.96875"
+         sodipodi:type="arc"
+         id="path5261"
+         style="opacity:1;fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:#04ac88;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         d="m 576.90254,188.87333 a 3.703119,3.5973265 0 0 1 -3.58919,-3.67243 3.703119,3.5973265 0 0 1 3.74726,-3.52028 3.703119,3.5973265 0 0 1 3.65812,3.60768 3.703119,3.5973265 0 0 1 -3.67998,3.58664"
+         sodipodi:open="true"
+         sodipodi:end="1.5645515"
+         sodipodi:start="1.6013378"
+         sodipodi:ry="3.5973265"
+         sodipodi:rx="3.703119"
+         sodipodi:cy="185.27768"
+         sodipodi:cx="577.01562"
+         sodipodi:type="arc"
+         id="path5267"
+         style="opacity:1;fill:#f54600;fill-opacity:1;fill-rule:nonzero;stroke:#04ac88;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
   </g>
 </svg>
